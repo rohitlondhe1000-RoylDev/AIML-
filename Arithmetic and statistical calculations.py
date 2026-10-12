@@ -22,3 +22,15 @@ print("\n--- Statistical Calculations ---")
 print(f"Mean               : {average:.2f}")
 print(f"Median             : {median_value:.2f}")
 print(f"Standard Deviation : {std_deviation:.2f}")
+
+
+#--- Arithmetic Calculations ---
+#Sum     : 165
+#Average : 33.00
+#Minimum : 11
+#Maximum : 55
+
+#--- Statistical Calculations ---
+#Mean               : 33.00
+#Median             : 33.00
+#Standard Deviation : 17.39
